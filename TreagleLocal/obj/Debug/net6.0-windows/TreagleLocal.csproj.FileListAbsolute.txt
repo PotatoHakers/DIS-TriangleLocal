@@ -1,0 +1,16 @@
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\bin\Debug\net6.0-windows\TreagleLocal.exe
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\bin\Debug\net6.0-windows\TreagleLocal.deps.json
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\bin\Debug\net6.0-windows\TreagleLocal.runtimeconfig.json
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\bin\Debug\net6.0-windows\TreagleLocal.dll
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\bin\Debug\net6.0-windows\TreagleLocal.pdb
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.Form1.resources
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.csproj.GenerateResource.cache
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.AssemblyInfoInputs.cache
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.AssemblyInfo.cs
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.csproj.CoreCompileInputs.cache
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.dll
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\refint\TreagleLocal.dll
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.pdb
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\TreagleLocal.genruntimeconfig.cache
+C:\Users\mix123\source\repos\TreagleLocal\TreagleLocal\obj\Debug\net6.0-windows\ref\TreagleLocal.dll
